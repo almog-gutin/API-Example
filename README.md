@@ -43,7 +43,7 @@ The point of this backend application is to test basic api functions.
 
 -   [Node.js](https://nodejs.org/en/)
 -   [Express](https://expressjs.com/)
--   [MongoDB](ttps://www.mongodb.com/)
+-   [MongoDB](https://www.mongodb.com/)
 -   [Mongoose (ODM)](https://mongoosejs.com/)
 -   [JWT](https://www.npmjs.com/package/jsonwebtoken)
 -   [Validator.js](https://www.npmjs.com/package/validator)
