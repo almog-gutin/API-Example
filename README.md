@@ -97,6 +97,8 @@ Above, there is a link that will take you to the postman files in my postman pro
 
 However if you would like to run the files locally on your machine in the postman desktop application, included in the repository, in the `postman` directory all the files so you can import them. In addition you will have to configure env variables in postman so that you will be able to test properly everything.
 
-![Postman ENV Variables](./assets/postman-env-variables.png)
+<div align="center">
+  <img src="./assets/postman-env-variables.png" />
+</div>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
