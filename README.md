@@ -1,6 +1,6 @@
 <div id="top"></div>
 
-<h1 align="center">API Example</h1>
+<h1 align="center">Node.js REST API Example</h1>
 
 <div align="center">
   <p align="center">
@@ -29,7 +29,7 @@
 
 ## About The Application
 
-This API is a basic example of a REST API backebnd application.
+This API is a basic example of a REST API backend application.
 
 It is build with Node.js and Express Framework with Javascript. In addition the application's database is MongoDB with the use of an ODM like Mongoose. Additionally the application has basic authentication and authorization functionality with the use of JWT.
 
