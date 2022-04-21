@@ -6,7 +6,7 @@
   <p align="center">
     This API example is a basic backend application to test basic API functions.
   </p>
-    <a href="https://www.postman.com/almog-gutin/workspace/api-example/overview">View Postman Files</a>
+    <a href="https://www.postman.com/workspace/5cc68958-1913-447f-af30-01417baa062a/overview">View Postman Files</a>
 </div>
 
 <!-- TABLE OF CONTENTS -->
@@ -59,7 +59,7 @@ The point of this backend application is to test basic api functions.
 **Git clone**
 
 ```
-git clone https://github.com/almog-gutin/API-Example.git
+git clone https://github.com/almoggutin/Node-Express-REST-API-Mongo-JS-Example.git
 ```
 
 **Instructions**
