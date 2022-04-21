@@ -1,6 +1,6 @@
 <div id="top"></div>
 
-<h1 align="center">Node.js REST API Example</h1>
+<h1 align="center">Node Express REST API MongoDB JS Example</h1>
 
 <div align="center">
   <p align="center">
